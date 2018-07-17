@@ -40,7 +40,6 @@ class Paginatable extends Component {
 				/> : ''}
 			</div>)
 	}
-
 }
 
 Paginatable.propTypes = {
