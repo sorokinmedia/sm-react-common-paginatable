@@ -28,7 +28,7 @@
 		"braces": "^2.3.1",
 		"glob-parent": "^5.1.2",
 		"is-svg": "^4.2.2",
-		"js-yaml": "^3.13.0",
+		"js-yaml": "^3.13.1",
 		"merge": "^2.1.1",
 		"node-notifier": "^8.0.1",
 		"yargs-parser": "^13.1.2",

@@ -5201,13 +5201,13 @@
   "version" "3.0.2"
 
 "js-yaml@^3.4.3", "js-yaml@^3.7.0", "js-yaml@^3.9.1":
-  "version" "^3.13.0"
+  "version" "^3.13.1"
   dependencies:
     "argparse" "^1.0.7"
     "esprima" "^4.0.0"
 
 "js-yaml@~3.7.0":
-  "version" "^3.13.0"
+  "version" "^3.13.1"
   dependencies:
     "argparse" "^1.0.7"
     "esprima" "^2.6.0"
